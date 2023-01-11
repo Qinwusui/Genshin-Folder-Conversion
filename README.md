@@ -14,7 +14,7 @@
 
 使用Go+Tasker简单写了一个Yuanshen与Genshin两个数据文件夹之间相互转换文件名的工具</br>
 即com.miHoYo.GenshinImpact ->com.miHoYo.Yuanshen</br>
-与com.miHoYo.Yuanshen -> com.miHoYo.GenshinImact
+与com.miHoYo.Yuanshen -> com.miHoYo.GenshinImpact
 
 ## How To Use
 
